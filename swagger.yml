@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Простое API авторизации
+  title: Спецификация api
   version: 1.0.0
 servers:
   - url: http://localhost/server_api/api/v1/
